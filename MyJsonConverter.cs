@@ -64,6 +64,7 @@ namespace MyJsonLib
         }
 
 
+        //todo Lav Deserialize metoden færdig.
         //public static T Deserialize<T>(string json)
         //{
 
